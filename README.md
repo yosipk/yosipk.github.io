@@ -1,6 +1,6 @@
 # Who am I?
 
-I'm Josip Krapac. From mid-2019 I work in [Zalando](https://en.zalando.de) and work on natural language understanding with emphasis on 
+I'm Josip Krapac. From mid-2019 I work in fashion and beauty e-commerce company [Zalando](https://en.zalando.de). I work on natural language understanding with emphasis on 
 * improving product search by understanding natural language queries and
 * undestanding customer feedback
 
